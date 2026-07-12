@@ -123,7 +123,7 @@ const HomePage = () => {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Join a Game</h3>
                 <p className="text-gray-600">
-                  Subscribe via SMS by sending either BD Daily, BW Weekly or BM
+                  Subscribe via SMS by sending either BTD Daily, BTW Weekly or BTM
                   Monthly to 33347
                 </p>
               </div>
