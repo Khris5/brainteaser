@@ -133,9 +133,9 @@ const TermsPage = () => {
           <ul className="list-disc list-inside space-y-2 mb-4 pl-4">
             <li>
               Sending an SMS keyword (
-              <strong className="font-semibold">BD</strong> for Daily,{" "}
-              <strong className="font-semibold">BW</strong> for Weekly, or{" "}
-              <strong className="font-semibold">BM</strong> for Monthly) to the
+              <strong className="font-semibold">BTD</strong> for Daily,{" "}
+              <strong className="font-semibold">BTW</strong> for Weekly, or{" "}
+              <strong className="font-semibold">BTM</strong> for Monthly) to the
               shortcode <strong className="font-semibold">33347</strong>.
             </li>
             <li>Dialing a specified USSD string.</li>
